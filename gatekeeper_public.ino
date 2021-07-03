@@ -5,9 +5,9 @@
 #include "AsyncTelegram.h"
 AsyncTelegram myBot;
 
-const char* ssid     = "Home";         // The SSID (name) of the Wi-Fi network you want to connect to
-const char* password = "hydrogengas";     // The password of the Wi-Fi network
-const char token[] = "1712489194:AAF2qCxOPkxvdeZjOn7CAxsvxe0918P0_NI";
+const char* ssid     = "";         // The SSID (name) of the Wi-Fi network you want to connect to
+const char* password = "";     // The password of the Wi-Fi network
+const char token[] = "";
 
 #define SS_PIN 2  //D2
 #define RST_PIN 0 //D1
